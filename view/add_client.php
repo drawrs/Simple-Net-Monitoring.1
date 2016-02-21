@@ -33,7 +33,7 @@
                       <div class="input-group-addon">
                         <i class="fa fa-train"></i>
                       </div>
-                  <select class="form-control select2" style="width: 100%;">
+                  <select name="stasiun" class="form-control select2" style="width: 100%;">
                         <?php
                         $sql = "SELECT*FROM blok ORDER BY name_blok ASC";
                         $query = $conn->query($sql);
