@@ -4,6 +4,7 @@
 #          Simple Network Monitoring
 #      Rizal Khilman - fb.me/rizal.ofdraw
 #           codinger-mini.blogspot.com
+#                   khilman.com
 #
 ####################################################
     session_start();
